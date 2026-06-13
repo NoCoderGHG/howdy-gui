@@ -1,0 +1,47 @@
+{
+  "app_title": "Howdy Manager",
+  "lang_de": "German",
+  "lang_en": "English",
+  "lang_system": "System language",
+  "restart_hint": "Please restart.",
+
+  "tab_models": "Face Models",
+  "tab_settings": "Settings",
+  "tab_test": "Test",
+
+  "models_label": "Saved face models:",
+  "btn_refresh": "Refresh",
+  "btn_add_face": "Add face",
+  "btn_remove_face": "Remove face",
+  "no_models_found": "No models found",
+
+  "lbl_timeout": "Timeout (seconds):",
+  "lbl_certainty": "Certainty:",
+  "certainty_info": "Higher certainty = faster but less secure\nLower certainty = slower but more secure",
+  "lbl_device_path": "Camera path:",
+  "btn_save_settings": "Save settings",
+  "status_label": "Howdy status:",
+  "btn_enable": "Enable",
+  "btn_disable": "Disable",
+
+  "test_title": "Test facial recognition",
+  "test_info": "Click 'Start test' to open a window with the camera.\nPress Ctrl+C in the terminal to end the test.",
+  "btn_start_test": "Start test",
+
+  "dlg_add_face_title": "Add face",
+  "dlg_add_face_text": "A terminal window will open. Follow the instructions there.",
+  "dlg_remove_face_title": "Remove face",
+  "lbl_model_id": "ID of the model to remove:",
+
+  "status_models_refreshed": "Models refreshed",
+  "status_add_terminal_opened": "Terminal for 'add' opened",
+  "status_model_removed": "Model {id} removed",
+  "status_settings_saved": "Settings saved",
+  "status_howdy_enabled": "Howdy enabled",
+  "status_howdy_disabled": "Howdy disabled",
+  "status_test_started": "Test started - see terminal window",
+
+  "err_generic": "Error: {e}",
+  "err_load_settings": "Error loading settings: {e}",
+  "err_save_settings": "Error saving: {e}"
+}
