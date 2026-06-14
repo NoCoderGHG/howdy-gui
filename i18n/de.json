@@ -4,17 +4,14 @@
   "lang_en": "Englisch",
   "lang_system": "Systemsprache",
   "restart_hint": "Bitte neu starten.",
-
   "tab_models": "Gesichtsmodelle",
   "tab_settings": "Einstellungen",
   "tab_test": "Test",
-
   "models_label": "Gespeicherte Gesichtsmodelle:",
   "btn_refresh": "Aktualisieren",
   "btn_add_face": "Gesicht hinzufügen",
   "btn_remove_face": "Gesicht entfernen",
   "no_models_found": "Keine Modelle gefunden",
-
   "lbl_timeout": "Timeout (Sekunden):",
   "lbl_certainty": "Certainty (Sicherheit):",
   "certainty_info": "Höhere Certainty = schneller aber unsicherer\nNiedrigere Certainty = langsamer aber sicherer",
@@ -23,16 +20,13 @@
   "status_label": "Howdy Status:",
   "btn_enable": "Aktivieren",
   "btn_disable": "Deaktivieren",
-
   "test_title": "Gesichtserkennung testen",
   "test_info": "Klicke auf 'Test starten' um ein Fenster mit der Kamera zu öffnen.\nDrücke Strg+C im Terminal um den Test zu beenden.",
   "btn_start_test": "Test starten",
-
   "dlg_add_face_title": "Gesicht hinzufügen",
   "dlg_add_face_text": "Ein Terminal-Fenster wird geöffnet. Folge den Anweisungen dort.",
   "dlg_remove_face_title": "Gesicht entfernen",
   "lbl_model_id": "ID des zu entfernenden Modells:",
-
   "status_models_refreshed": "Modelle aktualisiert",
   "status_add_terminal_opened": "Terminal für 'add' geöffnet",
   "status_model_removed": "Modell {id} entfernt",
@@ -40,8 +34,9 @@
   "status_howdy_enabled": "Howdy aktiviert",
   "status_howdy_disabled": "Howdy deaktiviert",
   "status_test_started": "Test gestartet - siehe Terminal-Fenster",
-
   "err_generic": "Fehler: {e}",
   "err_load_settings": "Fehler beim Laden der Einstellungen: {e}",
-  "err_save_settings": "Fehler beim Speichern: {e}"
+  "err_save_settings": "Fehler beim Speichern: {e}",
+  "tooltip_about": "Über Howdy Manager",
+  "about_comments": "Howdy-Gesichtserkennung konfigurieren.\n\nTeil der GTK3-Toolbox (NoCoderGHG)."
 }
